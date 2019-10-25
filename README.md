@@ -6,3 +6,6 @@ Foundation of Python Programming - Exercise.ipynb. Answering 10 questions using 
 
 ## October 24, 2019
 Practice Case 01 - Initial Data Analysis German Credit Dataset.
+
+## October 25, 2019
+Foundation of Statistics.ipynb
