@@ -1,5 +1,5 @@
 # iykra
-DSA Iykra 2019
+Data Science Academy HCID at Iykra Training 2019
 
 ## October 23, 2019
 Foundation of Python Programming - Exercise.ipynb. Answering 10 questions using [imdb_data](https://github.com/scalabretta/GroupProject--IMDB/tree/master/Dataset)
@@ -10,6 +10,10 @@ Practice Case 01 - Initial Data Analysis German Credit Dataset.
 ## October 25, 2019
 Foundation of Statistics.ipynb
 
+## October 29, 2019
+Practise Case 02 - Exploratory Data Analysis Bank Marketing Dataset. [uci_data](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+
+<hr>
 Copyright 2019 Gunawan Lumban Gaol
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
