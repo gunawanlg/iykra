@@ -13,6 +13,12 @@ Foundation of Statistics.ipynb
 ## October 29, 2019
 Practise Case 02 - Exploratory Data Analysis Bank Marketing Dataset. [uci_data](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
+## October 30, 2019
+Foundation of Data Engineering.
+
+## October 31, 2019
+Practice Case 03 - Foundation of Data Engineering. Instagram Comments Scrapping.
+
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
 

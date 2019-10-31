@@ -117,3 +117,6 @@ chromedriver.exe
 
 # configuration file
 config.ini
+
+# txt
+txt/
