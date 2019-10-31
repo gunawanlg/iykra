@@ -111,3 +111,9 @@ xlsx/
 
 # own package
 edapy/
+
+# compiled source
+chromedriver.exe
+
+# configuration file
+config.ini
