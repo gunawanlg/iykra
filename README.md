@@ -1,23 +1,13 @@
 # iykra
 Data Science Academy HCID at Iykra Training 2019
 
-## October 23, 2019
-Foundation of Python Programming - Exercise.ipynb. Answering 10 questions using [imdb_data](https://github.com/scalabretta/GroupProject--IMDB/tree/master/Dataset)
-
-## October 24, 2019
-Practice Case 01 - Initial Data Analysis German Credit Dataset.
-
-## October 25, 2019
-Foundation of Statistics.ipynb
-
-## October 29, 2019
-Practise Case 02 - Exploratory Data Analysis Bank Marketing Dataset. [uci_data](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
-
-## October 30, 2019
-Foundation of Data Engineering.
-
-## October 31, 2019
-Practice Case 03 - Foundation of Data Engineering. Instagram Comments Scrapping.
+## October 2019
+* October 23: Foundation of Python Programming - Exercise.ipynb. Answering 10 questions using [imdb_data](https://github.com/scalabretta/GroupProject--IMDB/tree/master/Dataset)
+* October 24: Practice Case 01 - Initial Data Analysis German Credit Dataset.
+* October 25: Foundation of Statistics.ipynb
+* October 29: Practise Case 02 - Exploratory Data Analysis Bank Marketing Dataset. [uci_data](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+* October 30: Foundation of Data Engineering.
+* October 31: Practice Case 03 - Foundation of Data Engineering. Instagram Comments Scrapping.
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
