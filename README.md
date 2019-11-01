@@ -9,6 +9,9 @@ Data Science Academy HCID at Iykra Training 2019
 * October 30: Foundation of Data Engineering.
 * October 31: Practice Case 03 - Foundation of Data Engineering. Instagram Comments Scrapping.
 
+## November 2019
+* November 01: Foundation of Machine Learning. Linear & Logistic Regression using [german_credit](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data))
+
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
 
