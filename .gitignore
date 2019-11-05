@@ -120,3 +120,6 @@ config.ini
 
 # txt
 txt/
+
+# ipynb
+"Practice Case 04 - Foundation of Machine Learning.ipynb"
