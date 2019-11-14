@@ -12,6 +12,7 @@ Data Science Academy HCID at Iykra Training 2019
 ## November 2019
 * November 01: Foundation of Machine Learning. Linear & Logistic Regression using [german_credit](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data))
 * November 04: Practice Case 04 - Foundation of Machine Learning. Predicting delays of flights data.
+* November 08: Advanced Machine Learning. Stacking Model.
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
