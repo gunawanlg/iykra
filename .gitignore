@@ -120,3 +120,6 @@ config.ini
 
 # txt
 txt/
+
+# catboost infos
+catboost_info/
