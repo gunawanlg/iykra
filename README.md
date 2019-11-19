@@ -14,6 +14,7 @@ Data Science Academy HCID at Iykra Training 2019
 * November 04: Practice Case 04 - Foundation of Machine Learning. Predicting delays of flights data.
 * November 08: Advanced Machine Learning. Stacking Model.
 * November 11: Practice Case 05 & 06 - Supervised and Unsupervised Learning.
+* November 14: Practice Case 07 - Business Acumen. Illy Cafe & Buka Toko, all files in docx/ directory.
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
