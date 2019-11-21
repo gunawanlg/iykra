@@ -16,6 +16,7 @@ Data Science Academy HCID at Iykra Training 2019
 * November 11: Practice Case 05 & 06 - Supervised and Unsupervised Learning.
 * November 14: Practice Case 07 - Business Acumen. Illy Cafe & Buka Toko, all files in docx/ directory.
 * November 18: Practice Case 08 - Applied Machine Learning: Marketing. Documentation written in another [repository](https://github.com/Arc-rendezvous/marketing-analytics).
+* November 21: Practice Case 09 - Model Deployment. Documentation written in [model-deployment repository](https://github.com/Arc-rendezvous/model-deployment)
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol
